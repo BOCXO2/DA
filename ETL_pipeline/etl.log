@@ -1,0 +1,28 @@
+2025-03-24 23:41:21,645 - INFO - Извлеченные пользователи: Brooke Chapman
+2025-03-24 23:41:21,830 - INFO - Извлеченные пользователи: Marcel Garnier
+2025-03-24 23:41:22,018 - INFO - Извлеченные пользователи: Rashmitha Nayak
+2025-03-24 23:41:22,435 - INFO - Извлеченные пользователи: Kayla Robinson
+2025-03-24 23:48:26,021 - INFO - Извлеченные пользователи: Daniel Spaans
+2025-03-24 23:48:26,252 - INFO - Извлеченные пользователи: Wade Anderson
+2025-03-24 23:48:26,662 - INFO - Извлеченные пользователи: Evelyn Jackson
+2025-03-24 23:48:27,032 - INFO - Извлеченные пользователи: Austin Brown
+2025-03-24 23:48:27,344 - INFO - Извлеченные пользователи: Demid Nagaievskiy
+2025-03-24 23:48:27,720 - INFO - Извлеченные пользователи: Steven Bennett
+2025-03-24 23:48:28,393 - INFO - Извлеченные пользователи: Marius Christensen
+2025-03-24 23:48:28,408 - INFO - Трансформация 10 закончена.
+2025-03-24 23:56:31,266 - INFO - Извлеченные пользователи: Roger Turner
+2025-03-24 23:56:31,909 - INFO - Извлеченные пользователи: Cengiz Meuser
+2025-03-24 23:56:32,272 - INFO - Извлеченные пользователи: Judith Roy
+2025-03-24 23:56:32,480 - INFO - Извлеченные пользователи: Zachary Martin
+2025-03-24 23:56:32,718 - INFO - Извлеченные пользователи: Pinja Ketola
+2025-03-24 23:56:32,897 - INFO - Извлеченные пользователи: Aleksi Lakso
+2025-03-24 23:56:33,245 - INFO - Извлеченные пользователи: Sofia Andersen
+2025-03-24 23:56:33,552 - INFO - Извлеченные пользователи: Kyle Rose
+2025-03-24 23:56:33,777 - INFO - Извлеченные пользователи: Johnni Anderson
+2025-03-24 23:56:33,780 - INFO - Трансформация 10 закончена.
+2025-03-24 23:56:37,916 - ERROR - Загрузка завершена с ошибкой: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
